@@ -19,7 +19,7 @@ const cohorts = [
   },
   {
     id: 'cst',
-    date: new Date(2020, 0, 20),
+    date: new Date(2020, 10, 20),
     students: [
       { id: 'ghi', name: 'António', age: 26 },
       { id: 'cde', name: 'Ana', age: 27 }
